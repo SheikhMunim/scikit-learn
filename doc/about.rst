@@ -7,8 +7,8 @@ History
 -------
 
 This project was started in 2007 as a Google Summer of Code project by
-David Cournapeau. Later that year, Matthieu Brucher started work on
-this project as part of his thesis.
+David Cournapeau. Later that year, Matthieu Brucher started to work on
+this project as part of his thesis. 
 
 In 2010 Fabian Pedregosa, Gael Varoquaux, Alexandre Gramfort and Vincent
 Michel of INRIA took leadership of the project and made the first public
@@ -25,7 +25,7 @@ out in the :ref:`governance document <governance>`.
 Authors
 -------
 
-The following people are currently core contributors to scikit-learn's development
+The following people are currently the core contributors to scikit-learn's development
 and maintenance:
 
 .. include:: authors.rst
